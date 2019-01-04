@@ -4,6 +4,11 @@
   <p align="center">
     Dark version of de school website
     <br>
+    <br>
+    <a href="https://www.deschoolamsterdam.nl/en/">
+      <img src="https://media.giphy.com/media/lpWtSAmpuDjfqeD8iz/giphy.gif" alt="Demo example"/>
+    </a>
+    <br>
     <a href="https://github.com/Ismaestro/deschool-theme/issues/new?template=bug.md">Report bug</a>
     ·
     <a href="https://github.com/Ismaestro/deschool-theme/issues/new?template=feature.md&labels=feature">Request feature</a>
