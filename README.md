@@ -6,7 +6,7 @@
     <br>
     <br>
     <a href="https://www.deschoolamsterdam.nl/en/">
-      <img src="https://media.giphy.com/media/oFImH83Lml3ttK1wOt/giphy.gif" alt="Demo example"/>
+      <img src="https://media.giphy.com/media/X6RRNshe9EBTsba2oq/giphy.gif" alt="Demo example"/>
     </a>
     <br>
     <a href="https://github.com/Ismaestro/deschool-theme/issues/new?template=bug.md">Report bug</a>
