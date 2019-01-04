@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+
+  "name": "De School Dark Theme",
+  "version": "0.0.0.1",
+  "description": "Dark version of de school website",
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["*://*.deschoolamsterdam.nl/*"]
+  }],
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "web_accessible_resources": [
+	"background.mp4",
+	"happiness.mp3"
+  ]
+
+
+}
